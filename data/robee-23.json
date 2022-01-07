@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "robee",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "2",
+  "title": "Unbounded loop on array that can only grow can lead to DoS",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/23"
+}
