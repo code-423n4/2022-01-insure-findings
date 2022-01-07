@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959ed8307ee2b0d04306f6b319aeee8864f1ee",
+  "risk": "G",
+  "title": "Redundant if statements in market deployment function",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/41"
+}
