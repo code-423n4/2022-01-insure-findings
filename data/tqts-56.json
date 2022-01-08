@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "tqts",
+  "address": "0x5Ac56257422bF362cec13a4367F86dd0a340f79a",
+  "risk": "G",
+  "title": "Gas optimization in IndexTemplate.requestWithdraw()",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/56"
+}
