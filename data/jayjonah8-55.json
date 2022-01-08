@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "No check that _conditions and _references  arrays are the same length",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/55"
+}
