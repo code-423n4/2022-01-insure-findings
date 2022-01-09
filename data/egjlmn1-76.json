@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "egjlmn1",
+  "address": "0xD0B90DEE950195A846ec7d9F7ebC7f45CEc7B9cC",
+  "risk": "G",
+  "title": "unnecessary checked postfix arithmetics",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/76"
+}
