@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "bugwriter001",
+  "address": "0x71e6B570A4CE5ab1AcE7BDF3Bb1E642955cbdacB",
+  "risk": "0",
+  "title": "too much centralization in the vault, the vault owner can withdraw all the value in the vault",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/65"
+}
