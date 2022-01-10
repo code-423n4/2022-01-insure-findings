@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412fc011d74c26e3ca768ab6224643702313",
+  "risk": "1",
+  "title": "Fee-on transfer tokens not supported",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/96"
+}
