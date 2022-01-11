@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "sirhashalot",
+  "address": "0x30cfB3B033dF25673b35Dc21a77329059d57a69b",
+  "risk": "2",
+  "title": "No slippage control in IndexTemplate.sol = frontrun or sandwich",
+  "issueId": 154,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/154"
+}
