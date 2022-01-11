@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "defsec",
+  "address": "0x38BCE8C1Ca5a061aa8e2b4750C18BA3efb27CeD9",
+  "risk": "G",
+  "title": "Adding unchecked directive can save gas",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/146"
+}
