@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "egjlmn1",
+  "address": "0xD0B90DEE950195A846ec7d9F7ebC7f45CEc7B9cC",
+  "risk": "2",
+  "title": "Increasing the array size and DOS the entire system",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/104"
+}
