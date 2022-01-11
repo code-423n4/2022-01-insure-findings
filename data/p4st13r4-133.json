@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "p4st13r4",
+  "address": "0xEFAD0017ee6bcD0F38a8e559761493aA5C433FEA",
+  "risk": "0",
+  "title": "In PoolTemplate.sol, deposit() and _depositFrom() can re-use the same code",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/133"
+}
