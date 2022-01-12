@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "1",
+  "title": "Owner can call `applyCover` multiple times in `PoolTemplate.sol`",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/160"
+}
