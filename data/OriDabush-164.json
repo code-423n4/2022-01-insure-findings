@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "OriDabush",
+  "address": "0x4bCc7c54E4e8E9a563B92272A51bBFb5d233de32",
+  "risk": "G",
+  "title": "prevent calculating useless boolean expressions",
+  "issueId": 164,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/164"
+}
