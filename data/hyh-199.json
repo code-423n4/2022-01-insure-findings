@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "1",
+  "title": "Assert is used instead of require in InsureDAOERC20 and Vault",
+  "issueId": 199,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/199"
+}
