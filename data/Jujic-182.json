@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "G",
+  "title": "Avoid use of state variables in event emissions to save gas",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/182"
+}
