@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "G",
+  "title": "InsureDAOERC20 transfer and burn token subtractions can be unchecked",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/187"
+}
