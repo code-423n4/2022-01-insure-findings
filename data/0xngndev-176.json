@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "0xngndev",
+  "address": "0x63D43942A69b961E398A0F7C260bC3718d320eE2",
+  "risk": "1",
+  "title": "Incorrect Natspec can lead to errors",
+  "issueId": 176,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/176"
+}
