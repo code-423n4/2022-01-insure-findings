@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "ospwner",
+  "address": "0xe1D476AEa1317357ca741b439d6052fa01502105",
+  "risk": "G",
+  "title": "Require statements can be reordered to save gas. ",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/193"
+}
