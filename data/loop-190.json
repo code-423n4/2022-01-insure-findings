@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "1",
+  "title": "Can't initialize markets due to initialize being set to true in constructor",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/190"
+}
