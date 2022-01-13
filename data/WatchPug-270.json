@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "1",
+  "title": "[WP-L28] `Vault#_unutilize()` Lack of validation for the amount of funds received",
+  "issueId": 270,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/270"
+}
