@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "1",
+  "title": "[WP-L25] `CDSTemplate.sol#fund()` User may lose funds due to misleading comment",
+  "issueId": 267,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/267"
+}
