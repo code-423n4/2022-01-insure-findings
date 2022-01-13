@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "1",
+  "title": "Input validation not done in few important functions in Parameters.sol",
+  "issueId": 243,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/243"
+}
