@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "[WP-G37] Change `public` constant variables to `private` / `internal` can save gas",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/282"
+}
