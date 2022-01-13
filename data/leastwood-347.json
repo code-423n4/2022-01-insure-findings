@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "1",
+  "title": "Insurance Pool Locking Does Not Propagate To All Markets",
+  "issueId": 347,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/347"
+}
