@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "G",
+  "title": "PoolTemplate.availableBalance calls totalLiquidity twice",
+  "issueId": 262,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/262"
+}
