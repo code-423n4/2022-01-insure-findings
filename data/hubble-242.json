@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "1",
+  "title": "Inconsistency in pragma solidity version definition in InsureDAOERC20.sol",
+  "issueId": 242,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/242"
+}
