@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "G",
+  "title": "Constructor Does Not Check for Zero Addresses",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/202"
+}
