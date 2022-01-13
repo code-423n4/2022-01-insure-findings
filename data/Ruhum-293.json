@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "G",
+  "title": "For `uint` checking `!= 0` is cheaper than `> 0`",
+  "issueId": 293,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/293"
+}
