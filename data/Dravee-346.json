@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Dravee",
+  "address": "0x319DCd0306908Ce08Ffa6F5e5b6B6a4ff8CCB9DE",
+  "risk": "G",
+  "title": "Gas: `PoolTemplate:initialize()::_references` should be a fixed array of size 5",
+  "issueId": 346,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/346"
+}
