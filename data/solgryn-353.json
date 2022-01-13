@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "solgryn",
+  "address": "0xc1B412F45a9702cc401259C6e3D9ef68d7e95575",
+  "risk": "G",
+  "title": "\"> 0\" is less efficient than \"!= 0\" for unsigned integers",
+  "issueId": 353,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/353"
+}
