@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "danb",
+  "address": "0x5aDFFa8A38adc0810c1D714624F8Ce52A3a27961",
+  "risk": "3",
+  "title": "the first depositor to an index can drain all users",
+  "issueId": 260,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/260"
+}
