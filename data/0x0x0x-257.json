@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "G",
+  "title": "For uint `> 0` can be replaced with ` != 0` for gas optimization",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/257"
+}
