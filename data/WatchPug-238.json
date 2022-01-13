@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "[WP-G19] Changing bool to uint256 can save gas",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/238"
+}
