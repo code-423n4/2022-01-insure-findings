@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "G",
+  "title": "`Factory` still has the `hardhat/console` import",
+  "issueId": 292,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/292"
+}
