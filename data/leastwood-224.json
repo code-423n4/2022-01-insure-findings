@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "Malicious Market Creators Can Steal Tokens From Unsuspecting Approved Reference Accounts",
+  "issueId": 224,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/224"
+}
