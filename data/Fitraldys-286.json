@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Fitraldys",
+  "address": "0xf533f2AB9460DB8d665DDe79773F20eCfB35f860",
+  "risk": "3",
+  "title": "unlock function is callable by anyone",
+  "issueId": 286,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/286"
+}
