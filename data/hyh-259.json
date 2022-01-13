@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "1",
+  "title": "Keeper, not controller: Vault.setKeeper and utilize descriptions are incorrect",
+  "issueId": 259,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/259"
+}
