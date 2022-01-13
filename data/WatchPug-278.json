@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H33] `IndexTemplate.sol` Wrong implementation allows lp of the index pool to resume a locked `PayingOut` pool and escape the responsibility for the compensation",
+  "issueId": 278,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/278"
+}
