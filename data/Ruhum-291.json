@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "If Vault contains tokens that charge a fee on transfer the internally kept balance will be wrong",
+  "issueId": 291,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/291"
+}
