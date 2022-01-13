@@ -1,0 +1,9 @@
+{
+  "contest": "InsureDAO contest",
+  "handle": "Kumpirmafyas",
+  "address": "0x5C02c82d2aE28D4c64c7b869c97682a8372Bc275",
+  "risk": "3",
+  "title": "Ordering importance in a struct",
+  "issueId": 334,
+  "issueUrl": "https://github.com/code-423n4/2022-01-insure-findings/issues/334"
+}
