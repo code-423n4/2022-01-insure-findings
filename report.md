@@ -1,3 +1,11 @@
+---
+sponsor: "InsureDAO"
+slug: "2022-01-insure"
+date: "2022-03-15"
+title: "InsureDAO contest"
+findings: "https://github.com/code-423n4/2022-01-insure-findings/issues"
+contest: 71
+---
 
 # Overview
 
